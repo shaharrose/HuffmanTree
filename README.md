@@ -1,6 +1,6 @@
 # HuffmanTree
 Huffman Tree Implementation
-# Noam Pnueli & Shahar Rosenberg
+By Noam Pnueli & Shahar Rosenberg
 
 # Usage:
 MiddleIn.py [flag] [file_name]

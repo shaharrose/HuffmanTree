@@ -1,5 +1,6 @@
 # HuffmanTree
 Huffman Tree Implementation
+
 By Noam Pnueli & Shahar Rosenberg
 
 # Usage:
